@@ -1,8 +1,23 @@
 const projects = [
   {
-    title: "tip-calculator",
-    githubLink: "https://github.com/mukh4mmadov/tip-calculator1",
-    vercelLink: "https://tip-calculator1-gamma.vercel.app/",
+    title: "BACKGROUND-IMAGES",
+    githubLink: "https://github.com/mukh4mmadov/background-images",
+    vercelLink: "https://ansormed22-q5zu.vercel.app/",
+  },
+  {
+    title: "ANSORMED",
+    githubLink: "https://github.com/mukh4mmadov/ansormed22",
+    vercelLink: "https://ansormed22.vercel.app/",
+  },
+  {
+    title: "UZBEKISTAN",
+    githubLink: "https://github.com/mukh4mmadov/uzbekistan",
+    vercelLink: "https://uzbekistan-black.vercel.app/",
+  },
+  {
+    title: "USA",
+    githubLink: "https://github.com/mukh4mmadov/USA",
+    vercelLink: "https://usa-ten.vercel.app/",
   },
 ];
 
