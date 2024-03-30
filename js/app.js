@@ -1,13 +1,8 @@
 const projects = [
   {
-    title: "channel-card-component",
-    githubLink: "https://github.com/mukh4mmadov/channel-card-component",
-    vercelLink: "https://channel-card-component.vercel.app/",
-  },
-  {
-    title: "SNAP-MAIN",
-    githubLink: "https://github.com/mukh4mmadov/snap-main",
-    vercelLink: "https://snap-main.vercel.app/",
+    title: "CASTAWAY",
+    githubLink: "https://github.com/mukh4mmadov/castaway",
+    vercelLink: "https://castaway-beige.vercel.app/",
   },
 ];
 
